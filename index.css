@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+
+.modal {
+    position: absolute;
+    top: 225px;
+    left: 425px;
+    background-color: rgb(255, 140, 0);
+    padding: 20px;
+    border: 1px solid rgb(9, 255, 0);
+}
+
+.scroll {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ff9100; 
+    padding: 15px; 
+   z-index: 2;
+}
+
+footer {
+    position: sticky;
+    top: 0;
+    background-color: rgb(255, 145, 0);
+    padding: 10px;
+    text-align: center;
+
+}
+
+.gg {
+    text-align: center;
+}
